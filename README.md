@@ -10,9 +10,13 @@
 
 - ⚡ Fun fact **I take things to seriously**
 
+<h3 align="left">Side projects:</h3>
+<p align="left">
+<a href="https://codenotfound.dev" target="blank"><img align="center" src="https://codenotfound.dev/img/logo_w.png" alt="codenotfound.dev" height="30" width="100" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tepbuphata-kim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tepbuphata-kim/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tepbuphata-kim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tepbuphata-kim/" height="30" width="40" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
