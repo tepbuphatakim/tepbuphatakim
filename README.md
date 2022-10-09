@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **kimtepbuphata009@gmail.com**
 
-- ⚡ Fun fact **I take things to seriously**
+- ⚡ Hobby **Drinking**
 
 <h3 align="left">Side projects:</h3>
 <p align="left">
